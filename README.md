@@ -1,3 +1,5 @@
 Comprehensive data analysis of salary equity and international representation in Major League Baseball. Assessed compensation disparities and predictive models to determine patterns of market impact of international talent, within the historical and performance context of the MLB from 1985-2016. Models used include: multiple linear regression, analysis of variance (ANOVA/ANCOVA), clustering. Conducted in R, using ggplot2 for visualization and presentation of findings. Project notable for extensive use of visualization tools and translation of statistical jargon to a non academic audience.
 
-Downloading HTML file will provide a pageless, formatted version of the report. The raw markdown file and a knitted PDF file are also available for viewing.
+[RECOMMENDED] Downloading HTML file will provide a pageless, formatted version of the report. 
+
+[OPTIONAL] The raw markdown file and a knitted PDF file are also available for viewing.
